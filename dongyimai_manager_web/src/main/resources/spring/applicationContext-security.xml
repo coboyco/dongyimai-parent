@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd">
+
+    <!--收藏假图标不进行拦截-->
+    <security:http pattern="/assets/img/favicon.ico" security="none"/>
+    <!--定义哪些资源不能被拦截-->
+    <!--静态资源不能被拦截-->
+    <security:http pattern="/css/**" security="none"/>
+    <security:http pattern="/img/**" security="none"/>
+    <security:http pattern="/js/**" security="none"/>
+    <security:http pattern="/plugins/**" security="none"/>
+    <!--登录界面不能被拦截，需要释放-->
+    <security:http pattern="/login.html" security="none"/>
+
+    <!--配置拦截规则-->
+    <security:http use-expressions="false">
+        <!--access:只能接受当前登录身份为ROLE_ADMIN的用户-->
+        <security:intercept-url pattern="/**" access="ROLE_ADMIN"/>
+        <security:form-login login-page="/login.html" default-target-url="/admin/index.html" always-use-default-target="true" />
+        <!--禁用到csrf-->
+        <security:csrf disabled="true"/>
+        <!--释放前端中用到的框架资源-->
+        <security:headers>
+            <security:frame-options policy="SAMEORIGIN"/>
+        </security:headers>
+
+        <!--配置退出登录-->
+        <security:logout logout-success-url="/login.html"/>
+    </security:http>
+
+    <!--设置认证管理器-->
+    <security:authentication-manager>
+        <!--认证提供 运营商后台管理员比较少所以直接写死-->
+        <security:authentication-provider>
+            <security:user-service>
+                <security:user name="admin" authorities="ROLE_ADMIN" password="123"/>
+                 <security:user name="test" authorities="ROLE_ADMIN" password="123"/>
+            </security:user-service>
+        </security:authentication-provider>
+    </security:authentication-manager>
+</beans>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+    <context:property-placeholder ignore-unresolvable="true" location="classpath:properties/sms.properties"/>
+
+    <context:component-scan base-package="com.offcn.*"/>
+    <bean id="targetConnectionFactory" class="org.apache.activemq.ActiveMQConnectionFactory">
+        <property name="brokerURL" value="tcp://192.168.188.128:61616"/>
+    </bean>
+
+    <bean id="connectionFactory" class="org.springframework.jms.connection.SingleConnectionFactory">
+        <property name="targetConnectionFactory" ref="targetConnectionFactory"/>
+    </bean>
+
+    <!--声明监听的短信接收消息队列-->
+   <bean id="dongyimai_queue_sms" class="org.apache.activemq.command.ActiveMQQueue">
+       <constructor-arg value="dongyimai_queue_sms"/>
+   </bean>
+  <!--  &lt;!&ndash;配置监听类&ndash;&gt;
+    <bean id="smsListener" class="com.offcn.listener.SmsListener"></bean>
+-->
+
+    <!--配置监听容器-->
+    <bean  class="org.springframework.jms.listener.DefaultMessageListenerContainer">
+        <property name="messageListener" ref="smsListener"/>
+        <property name="destination" ref="dongyimai_queue_sms"/>
+        <property name="connectionFactory" ref="connectionFactory"/>
+    </bean>
+
+
+</beans>

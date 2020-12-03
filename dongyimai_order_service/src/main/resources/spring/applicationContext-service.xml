@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--配置dubbo-->
+    <dubbo:application name="orderService"/>
+    <dubbo:registry address="zookeeper://192.168.188.128:2181"/>
+    <dubbo:annotation package="com.offcn.cart.order.impl"/>
+    <!--因为目前有两个服务，所有两个服务公用一个端口会发生冲突，所以需要修改连接的端口号-->
+    <dubbo:protocol name="dubbo" port="20889"/>
+
+    <bean id="idWorker" class="com.offcn.utils.IdWorker">
+        <!--进程ID-->
+        <constructor-arg index="0" value="0" ></constructor-arg>
+        <!--数据中心-->
+        <constructor-arg index="1" value="0"></constructor-arg>
+    </bean>
+</beans>

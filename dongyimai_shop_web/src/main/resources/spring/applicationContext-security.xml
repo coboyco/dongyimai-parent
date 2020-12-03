@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--声明dubbo远程调用-->
+    <dubbo:application name="webShop">
+        <dubbo:parameter key="qos.enable" value="false"/>
+    </dubbo:application>
+
+    <dubbo:registry address="zookeeper://192.168.188.128:2181"/>
+
+    <dubbo:annotation />
+    <!--释放静态资源-->
+    <security:http pattern="/css/**" security="none"/>
+    <security:http pattern="/img/**" security="none"/>
+    <security:http pattern="/js/**" security="none"/>
+    <security:http pattern="/plugins/**" security="none"/>
+    <!--释放注册界面和登录界面-->
+    <security:http pattern="/register.html" security="none"/>
+    <security:http pattern="/shoplogin.html" security="none"/>
+    <!--释放注册请求-->
+    <security:http pattern="/seller/add.do" security="none"/>
+
+    <!--声明密码加密器-->
+    <bean id="bCryptPasswordEncoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+
+    <!--配置拦截规则-->
+    <security:http use-expressions="false">
+       <security:intercept-url pattern="/**" access="ROLE_SELLER"/>
+       <security:form-login login-page="/shoplogin.html" default-target-url="/admin/index.html" always-use-default-target="true"/>
+        <security:csrf disabled="true"/>
+        <security:headers>
+            <security:frame-options policy="SAMEORIGIN"/>
+        </security:headers>
+        <security:logout logout-success-url="/admin/index.html"/>
+    </security:http>
+
+    <!--采用声明方式进行远程服务调用-->
+    <dubbo:reference id="sellService" interface="com.offcn.sellergoods.service.SellerService"/>
+
+    <!--声明自定义的认证类到当前的spring框架-->
+    <bean id="userDetail" class="com.offcn.user.UserDetailImpl">
+        <!--这里进行set注入-->
+        <!--注入远程商家服务对象，在自定义的类中需要使用到远程接口-->
+        <property name="sellerService" ref="sellService"/>
+    </bean>
+
+    <!--声明认证管理器-->
+    <security:authentication-manager>
+        <security:authentication-provider user-service-ref="userDetail">
+            <!--注入密码加密器-->
+            <security:password-encoder ref="bCryptPasswordEncoder"/>
+        </security:authentication-provider>
+    </security:authentication-manager>
+
+
+</beans>

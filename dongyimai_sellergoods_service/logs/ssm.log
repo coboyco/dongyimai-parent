@@ -1,0 +1,921 @@
+[DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:brandServiceImpl:com.offcn.sellergoods.service.BrandService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'brandServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:brandServiceImpl:com.offcn.sellergoods.service.BrandService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:brandServiceImpl:com.offcn.sellergoods.service.BrandService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'goodsDescServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'goodsServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'itemCatServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'itemServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellerServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'specificationOptionServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'specificationServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating shared instance of singleton bean 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Creating instance of bean 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Eagerly caching bean 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService' to allow for resolving potential circular references
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'typeTemplateServiceImpl'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Invoking afterPropertiesSet() on bean with name 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sellergoods_service'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Finished creating instance of bean 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbAddressMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbAreasMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbBrandMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbCitiesMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbContentCategoryMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbContentMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbFreightTemplateMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbGoodsDescMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbGoodsMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbItemCatMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbItemMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbOrderItemMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbOrderMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbPayLogMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbProvincesMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbSeckillGoodsMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbSeckillOrderMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbSellerMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbSpecificationMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbSpecificationOptionMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbTypeTemplateMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'tbUserMapper'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionalEventListenerFactory'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.web.context.support.XmlWebApplicationContext]Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@4f2fdcf6]
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'lifecycleProcessor'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'sqlSessionFactory'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:brandServiceImpl:com.offcn.sellergoods.service.BrandService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:goodsDescServiceImpl:com.offcn.sellergoods.service.GoodsDescService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:goodsServiceImpl:com.offcn.sellergoods.service.GoodsService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:itemCatServiceImpl:com.offcn.sellergoods.service.ItemCatService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:itemServiceImpl:com.offcn.sellergoods.service.ItemService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:sellerServiceImpl:com.offcn.sellergoods.service.SellerService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:specificationOptionServiceImpl:com.offcn.sellergoods.service.SpecificationOptionService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:specificationServiceImpl:com.offcn.sellergoods.service.SpecificationService'
+  [DEBUG] [2020-11-02 18:51:48][org.springframework.beans.factory.support.DefaultListableBeanFactory]Returning cached instance of singleton bean 'ServiceBean:typeTemplateServiceImpl:com.offcn.sellergoods.service.TypeTemplateService'
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.BrandService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.cache;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class CacheFactory$Adaptive implements com.alibaba.dubbo.cache.CacheFactory {
+public com.alibaba.dubbo.cache.Cache getCache(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.rpc.Invocation arg1) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+if (arg1 == null) throw new IllegalArgumentException("invocation == null");
+String methodName = arg1.getMethodName();
+String extName = url.getMethodParameter(methodName, "cache", "lru");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.cache.CacheFactory) name from url(" + url.toString() + ") use keys([cache])");
+com.alibaba.dubbo.cache.CacheFactory extension = (com.alibaba.dubbo.cache.CacheFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.cache.CacheFactory.class).getExtension(extName);
+return extension.getCache(arg0, arg1);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.monitor;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class MonitorFactory$Adaptive implements com.alibaba.dubbo.monitor.MonitorFactory {
+public com.alibaba.dubbo.monitor.Monitor getMonitor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.monitor.MonitorFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.monitor.MonitorFactory extension = (com.alibaba.dubbo.monitor.MonitorFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.monitor.MonitorFactory.class).getExtension(extName);
+return extension.getMonitor(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.validation;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Validation$Adaptive implements com.alibaba.dubbo.validation.Validation {
+public com.alibaba.dubbo.validation.Validator getValidator(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("validation", "jvalidation");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.validation.Validation) name from url(" + url.toString() + ") use keys([validation])");
+com.alibaba.dubbo.validation.Validation extension = (com.alibaba.dubbo.validation.Validation)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.validation.Validation.class).getExtension(extName);
+return extension.getValidator(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.BrandService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.BrandService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.BrandService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314308217, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.registry;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RegistryFactory$Adaptive implements com.alibaba.dubbo.registry.RegistryFactory {
+public com.alibaba.dubbo.registry.Registry getRegistry(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.registry.RegistryFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.registry.RegistryFactory extension = (com.alibaba.dubbo.registry.RegistryFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.registry.RegistryFactory.class).getExtension(extName);
+return extension.getRegistry(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Cluster$Adaptive implements com.alibaba.dubbo.rpc.cluster.Cluster {
+public com.alibaba.dubbo.rpc.Invoker join(com.alibaba.dubbo.rpc.cluster.Directory arg0) throws com.alibaba.dubbo.rpc.RpcException {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = url.getParameter("cluster", "failover");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.Cluster) name from url(" + url.toString() + ") use keys([cluster])");
+com.alibaba.dubbo.rpc.cluster.Cluster extension = (com.alibaba.dubbo.rpc.cluster.Cluster)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.Cluster.class).getExtension(extName);
+return extension.join(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [WARN] [2020-11-02 18:51:48][com.alibaba.dubbo.qos.protocol.QosProtocolWrapper] [DUBBO] Fail to start qos server: , dubbo version: 2.6.4, current host: 192.168.10.99
+  java.lang.NoClassDefFoundError: io/netty/channel/EventLoopGroup
+	at com.alibaba.dubbo.qos.protocol.QosProtocolWrapper.startQosServer(QosProtocolWrapper.java:95)
+	at com.alibaba.dubbo.qos.protocol.QosProtocolWrapper.export(QosProtocolWrapper.java:59)
+	at com.alibaba.dubbo.rpc.protocol.ProtocolListenerWrapper.export(ProtocolListenerWrapper.java:55)
+	at com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper.export(ProtocolFilterWrapper.java:98)
+	at com.alibaba.dubbo.rpc.Protocol$Adaptive.export(Protocol$Adaptive.java)
+	at com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:513)
+	at com.alibaba.dubbo.config.ServiceConfig.doExportUrls(ServiceConfig.java:358)
+	at com.alibaba.dubbo.config.ServiceConfig.doExport(ServiceConfig.java:317)
+	at com.alibaba.dubbo.config.ServiceConfig.export(ServiceConfig.java:216)
+	at com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:123)
+	at com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:49)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:163)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:136)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:381)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:335)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:855)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:541)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:446)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:328)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:107)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: io.netty.channel.EventLoopGroup
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1702)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1547)
+	... 29 more
+[DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Transporter$Adaptive implements com.alibaba.dubbo.remoting.Transporter {
+public com.alibaba.dubbo.remoting.Client connect(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.remoting.RemotingException {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.connect(arg0, arg1);
+}
+public com.alibaba.dubbo.remoting.Server bind(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.remoting.RemotingException {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("server", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([server, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.bind(arg0, arg1);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Dispatcher$Adaptive implements com.alibaba.dubbo.remoting.Dispatcher {
+public com.alibaba.dubbo.remoting.ChannelHandler dispatch(com.alibaba.dubbo.remoting.ChannelHandler arg0, com.alibaba.dubbo.common.URL arg1) {
+if (arg1 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg1;
+String extName = url.getParameter("dispatcher", url.getParameter("dispather", url.getParameter("channel.handler", "all")));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Dispatcher) name from url(" + url.toString() + ") use keys([dispatcher, dispather, channel.handler])");
+com.alibaba.dubbo.remoting.Dispatcher extension = (com.alibaba.dubbo.remoting.Dispatcher)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Dispatcher.class).getExtension(extName);
+return extension.dispatch(arg0, arg1);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.common.threadpool;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ThreadPool$Adaptive implements com.alibaba.dubbo.common.threadpool.ThreadPool {
+public java.util.concurrent.Executor getExecutor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("threadpool", "fixed");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.common.threadpool.ThreadPool) name from url(" + url.toString() + ") use keys([threadpool])");
+com.alibaba.dubbo.common.threadpool.ThreadPool extension = (com.alibaba.dubbo.common.threadpool.ThreadPool)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.common.threadpool.ThreadPool.class).getExtension(extName);
+return extension.getExecutor(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][org.jboss.netty.channel.socket.nio.NioProviderMetadata] [DUBBO] Using the autodetected NIO constraint level: 0, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.remoting.transport.AbstractServer] [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.10.99:20880, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:48][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.remoting.zookeeper;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ZookeeperTransporter$Adaptive implements com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter {
+public com.alibaba.dubbo.remoting.zookeeper.ZookeeperClient connect(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "curator"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter extension = (com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter.class).getExtension(extName);
+return extension.connect(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:48][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Load registry store file C:\Users\Administrator\.dubbo\dubbo-registry-sellergoods_service-192.168.188.128:2181.cache, data: {com.offcn.sellergoods.service.SpecificationOptionService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277803176, com.offcn.sellergoods.service.GoodsService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findAll,findGoodsByGoodIdAandStatus&pid=1284&revision=1.0&side=provider&timestamp=1604277802928, com.offcn.sellergoods.service.BrandService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277801943, com.offcn.sellergoods.service.SpecificationService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277803270, com.offcn.sellergoods.service.ItemCatService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277802979, com.offcn.sellergoods.service.ItemService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277803045, com.offcn.sellergoods.service.SellerService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277803103, com.offcn.sellergoods.service.GoodsDescService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277802872, com.offcn.sellergoods.service.TypeTemplateService=empty://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=1284&revision=1.0&side=provider&timestamp=1604277803364}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][org.apache.curator.utils.Compatibility]Running in ZooKeeper 3.4.x compatibility mode
+  [INFO] [2020-11-02 18:51:49][org.apache.curator.framework.imps.CuratorFrameworkImpl]Starting
+  [DEBUG] [2020-11-02 18:51:49][org.apache.curator.CuratorZookeeperClient]Starting
+  [DEBUG] [2020-11-02 18:51:49][org.apache.curator.ConnectionState]Starting
+  [DEBUG] [2020-11-02 18:51:49][org.apache.curator.ConnectionState]reset
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:host.name=PC-20190623ACFO
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_251
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_251\jre
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=D:\apache-maven-3.5.4\boot\plexus-classworlds-2.5.2.jar;D:\idea2019\IntelliJ IDEA 2019.3.2\lib\idea_rt.jar
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_251\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\XHSELL\;D:\apache-maven-3.5.4\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\UCRT\;C:\Program Files\Intel\UCRT\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\mysql\bin;;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\typora\Typora\;C:\Program Files\Java\jdk1.8.0_251\bin;D:\idea2019\IntelliJ IDEA 2019.3.2\bin;;.
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:user.name=Administrator
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\Administrator
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=C:\Users\Administrator\IdeaProjects\dongyimai-parent\dongyimai_sellergoods_service
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=192.168.188.128:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@4c89c063
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]zookeeper.disableAutoWatchReset is false
+  [INFO] [2020-11-02 18:51:49][org.apache.curator.framework.imps.CuratorFrameworkImpl]Default schema
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Opening socket connection to server 192.168.188.128/192.168.188.128:2181. Will not attempt to authenticate using SASL (unknown error)
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Socket connection established to 192.168.188.128/192.168.188.128:2181, initiating session
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Session establishment request sent on 192.168.188.128/192.168.188.128:2181
+  [INFO] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Session establishment complete on server 192.168.188.128/192.168.188.128:2181, sessionid = 0x1758893a49d0001, negotiated timeout = 40000
+  [DEBUG] [2020-11-02 18:51:49][org.apache.curator.ConnectionState]Negotiated session timeout: 40000
+  [INFO] [2020-11-02 18:51:49][org.apache.curator.framework.state.ConnectionStateManager]State change: CONNECTED
+  [DEBUG] [2020-11-02 18:51:49][org.apache.curator.framework.imps.CuratorFrameworkImpl]Clearing sleep for 0 operations
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,3156,0  request:: '/dubbo/com.offcn.sellergoods.service.BrandService/providers,F  response:: s{18,18,1602253673239,1602253673239,0,134,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,3157,0  request:: '/dubbo/com.offcn.sellergoods.service.BrandService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.BrandService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.BrandService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314308229,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.BrandService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.BrandService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.BrandService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314308229 
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 3,3  replyHeader:: 3,3157,0  request:: '/dubbo/com.offcn.sellergoods.service.BrandService/configurators,F  response:: s{21,21,1602253673305,1602253673305,0,0,0,0,13,0,21} 
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 4,12  replyHeader:: 4,3157,0  request:: '/dubbo/com.offcn.sellergoods.service.BrandService/configurators,T  response:: v{},s{21,21,1602253673305,1602253673305,0,0,0,0,13,0,21} 
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.BrandService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.BrandService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314308229], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RouterFactory$Adaptive implements com.alibaba.dubbo.rpc.cluster.RouterFactory {
+public com.alibaba.dubbo.rpc.cluster.Router getRouter(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getProtocol();
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.RouterFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.cluster.RouterFactory extension = (com.alibaba.dubbo.rpc.cluster.RouterFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.RouterFactory.class).getExtension(extName);
+return extension.getRouter(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][com.alibaba.dubbo.common.extension.ExtensionLoader] [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ConfiguratorFactory$Adaptive implements com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory {
+public com.alibaba.dubbo.rpc.cluster.Configurator getConfigurator(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getProtocol();
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory extension = (com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory.class).getExtension(extName);
+return extension.getConfigurator(arg0);
+}
+}, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.GoodsDescService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.GoodsDescService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.GoodsDescService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.GoodsDescService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314309479, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:49][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:49][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 5,3  replyHeader:: 5,3157,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsDescService/providers,F  response:: s{118,118,1602493821789,1602493821789,0,110,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 6,1  replyHeader:: 6,3158,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsDescService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.GoodsDescService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.GoodsDescService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314309480,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.GoodsDescService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.GoodsDescService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.GoodsDescService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314309480 
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 7,3  replyHeader:: 7,3158,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsDescService/configurators,F  response:: s{123,123,1602493821815,1602493821815,0,0,0,0,9,0,123} 
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 8,12  replyHeader:: 8,3158,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsDescService/configurators,T  response:: v{},s{123,123,1602493821815,1602493821815,0,0,0,0,9,0,123} 
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsDescService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsDescService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314309480], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.GoodsService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.GoodsService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.GoodsService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.GoodsService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314310241, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 9,3  replyHeader:: 9,3158,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsService/providers,F  response:: s{126,126,1602493821871,1602493821871,0,110,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 10,1  replyHeader:: 10,3159,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.GoodsService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.GoodsService%2526methods%253Dadd%252CupdateState%252CfindOne%252Cupdate%252CupdateIsMarketable%252CfindPage%252Cdelete%252CfindGoodsByGoodIdAandStatus%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314310241,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.GoodsService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.GoodsService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.GoodsService%2526methods%253Dadd%252CupdateState%252CfindOne%252Cupdate%252CupdateIsMarketable%252CfindPage%252Cdelete%252CfindGoodsByGoodIdAandStatus%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314310241 
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 11,3  replyHeader:: 11,3159,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsService/configurators,F  response:: s{131,131,1602493821887,1602493821887,0,0,0,0,13,0,131} 
+  [DEBUG] [2020-11-02 18:51:50][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 12,12  replyHeader:: 12,3159,0  request:: '/dubbo/com.offcn.sellergoods.service.GoodsService/configurators,T  response:: v{},s{131,131,1602493821887,1602493821887,0,0,0,0,13,0,131} 
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.GoodsService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.GoodsService&methods=add,updateState,findOne,update,updateIsMarketable,findPage,delete,findGoodsByGoodIdAandStatus,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310241], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.ItemCatService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.ItemCatService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.ItemCatService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.ItemCatService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314310809, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:50][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 13,3  replyHeader:: 13,3159,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemCatService/providers,F  response:: s{134,134,1602493821937,1602493821937,0,110,0,0,9,0,3076} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 14,1  replyHeader:: 14,3160,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemCatService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.ItemCatService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.ItemCatService%2526methods%253Dadd%252CfindByParentId%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314310809,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.ItemCatService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.ItemCatService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.ItemCatService%2526methods%253Dadd%252CfindByParentId%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314310809 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 15,3  replyHeader:: 15,3160,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemCatService/configurators,F  response:: s{139,139,1602493821953,1602493821953,0,0,0,0,9,0,139} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 16,12  replyHeader:: 16,3160,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemCatService/configurators,T  response:: v{},s{139,139,1602493821953,1602493821953,0,0,0,0,9,0,139} 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemCatService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemCatService&methods=add,findByParentId,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314310809], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.ItemService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.ItemService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.ItemService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.ItemService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314311534, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 17,3  replyHeader:: 17,3160,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemService/providers,F  response:: s{141,141,1602493821998,1602493821998,0,110,0,0,9,0,3076} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 18,1  replyHeader:: 18,3161,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.ItemService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.ItemService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311537,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.ItemService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.ItemService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.ItemService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311537 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 19,3  replyHeader:: 19,3161,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemService/configurators,F  response:: s{146,146,1602493822053,1602493822053,0,0,0,0,9,0,146} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 20,12  replyHeader:: 20,3161,0  request:: '/dubbo/com.offcn.sellergoods.service.ItemService/configurators,T  response:: v{},s{146,146,1602493822053,1602493822053,0,0,0,0,9,0,146} 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.ItemService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.ItemService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311537], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.SellerService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SellerService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SellerService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.SellerService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314311931, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 21,3  replyHeader:: 21,3161,0  request:: '/dubbo/com.offcn.sellergoods.service.SellerService/providers,F  response:: s{148,148,1602493822139,1602493822139,0,110,0,0,9,0,3076} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 22,1  replyHeader:: 22,3162,0  request:: '/dubbo/com.offcn.sellergoods.service.SellerService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SellerService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SellerService%2526methods%253Dadd%252CupdateStatus%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311931,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.SellerService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SellerService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SellerService%2526methods%253Dadd%252CupdateStatus%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311931 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 23,3  replyHeader:: 23,3162,0  request:: '/dubbo/com.offcn.sellergoods.service.SellerService/configurators,F  response:: s{153,153,1602493822156,1602493822156,0,0,0,0,9,0,153} 
+  [DEBUG] [2020-11-02 18:51:51][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 24,12  replyHeader:: 24,3162,0  request:: '/dubbo/com.offcn.sellergoods.service.SellerService/configurators,T  response:: v{},s{153,153,1602493822156,1602493822156,0,0,0,0,9,0,153} 
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:51][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SellerService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SellerService&methods=add,updateStatus,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311931], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:51][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.SpecificationOptionService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SpecificationOptionService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SpecificationOptionService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.SpecificationOptionService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314311985, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 25,3  replyHeader:: 25,3162,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationOptionService/providers,F  response:: s{156,156,1602493822205,1602493822205,0,110,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 26,1  replyHeader:: 26,3163,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationOptionService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SpecificationOptionService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SpecificationOptionService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311985,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.SpecificationOptionService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SpecificationOptionService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SpecificationOptionService%2526methods%253Dadd%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314311985 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 27,3  replyHeader:: 27,3163,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationOptionService/configurators,F  response:: s{161,161,1602493822258,1602493822258,0,0,0,0,13,0,161} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 28,12  replyHeader:: 28,3163,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationOptionService/configurators,T  response:: v{},s{161,161,1602493822258,1602493822258,0,0,0,0,13,0,161} 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationOptionService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationOptionService&methods=add,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314311985], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.SpecificationService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SpecificationService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.SpecificationService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.SpecificationService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314312452, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 29,3  replyHeader:: 29,3163,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationService/providers,F  response:: s{164,164,1602493822305,1602493822305,0,110,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 30,1  replyHeader:: 30,3164,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SpecificationService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SpecificationService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314312452,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.SpecificationService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.SpecificationService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.SpecificationService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314312452 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 31,3  replyHeader:: 31,3164,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationService/configurators,F  response:: s{169,169,1602493822315,1602493822315,0,0,0,0,13,0,169} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 32,12  replyHeader:: 32,3164,0  request:: '/dubbo/com.offcn.sellergoods.service.SpecificationService/configurators,T  response:: v{},s{169,169,1602493822315,1602493822315,0,0,0,0,13,0,169} 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.SpecificationService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.SpecificationService&methods=add,selectOptionList,findOne,update,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312452], dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] The service ready on spring started. service: com.offcn.sellergoods.service.TypeTemplateService, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.TypeTemplateService to local registry, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Export dubbo service com.offcn.sellergoods.service.TypeTemplateService to url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Register dubbo service com.offcn.sellergoods.service.TypeTemplateService url dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&bind.ip=192.168.10.99&bind.port=20880&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765 to registry registry://192.168.188.128:2181/com.alibaba.dubbo.registry.RegistryService?application=sellergoods_service&dubbo=2.0.2&pid=4596&registry=zookeeper&timestamp=1604314312765, dubbo version: 2.6.4, current host: 192.168.10.99
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Register: dubbo://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 33,3  replyHeader:: 33,3164,0  request:: '/dubbo/com.offcn.sellergoods.service.TypeTemplateService/providers,F  response:: s{172,172,1602493822341,1602493822341,0,110,0,0,13,0,3076} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 34,1  replyHeader:: 34,3165,0  request:: '/dubbo/com.offcn.sellergoods.service.TypeTemplateService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.TypeTemplateService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.TypeTemplateService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindSpecList%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314312765,#3139322e3136382e31302e3939,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.offcn.sellergoods.service.TypeTemplateService/providers/dubbo%253A%252F%252F192.168.10.99%253A20880%252Fcom.offcn.sellergoods.service.TypeTemplateService%253Fanyhost%253Dtrue%2526application%253Dsellergoods_service%2526dubbo%253D2.0.2%2526generic%253Dfalse%2526interface%253Dcom.offcn.sellergoods.service.TypeTemplateService%2526methods%253Dadd%252CselectOptionList%252CfindOne%252Cupdate%252CfindSpecList%252CfindPage%252Cdelete%252CfindAll%2526pid%253D4596%2526revision%253D1.0%2526side%253Dprovider%2526timestamp%253D1604314312765 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Subscribe: provider://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765, dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 35,3  replyHeader:: 35,3165,0  request:: '/dubbo/com.offcn.sellergoods.service.TypeTemplateService/configurators,F  response:: s{177,177,1602493822353,1602493822353,0,0,0,0,13,0,177} 
+  [DEBUG] [2020-11-02 18:51:52][org.apache.zookeeper.ClientCnxn]Reading reply sessionid:0x1758893a49d0001, packet:: clientPath:null serverPath:null finished:false header:: 36,12  replyHeader:: 36,3165,0  request:: '/dubbo/com.offcn.sellergoods.service.TypeTemplateService/configurators,T  response:: v{},s{177,177,1602493822353,1602493822353,0,0,0,0,13,0,177} 
+  [INFO] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistry] [DUBBO] Notify urls for subscribe url provider://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765, urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] original override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][com.alibaba.dubbo.registry.integration.RegistryProtocol] [DUBBO] subscribe url: provider://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765, override urls: [empty://192.168.10.99:20880/com.offcn.sellergoods.service.TypeTemplateService?anyhost=true&application=sellergoods_service&category=configurators&check=false&dubbo=2.0.2&generic=false&interface=com.offcn.sellergoods.service.TypeTemplateService&methods=add,selectOptionList,findOne,update,findSpecList,findPage,delete,findAll&pid=4596&revision=1.0&side=provider&timestamp=1604314312765], dubbo version: 2.6.4, current host: 192.168.10.99
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Searching for key 'spring.liveBeansView.mbeanDomain' in [servletConfigInitParams]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Searching for key 'spring.liveBeansView.mbeanDomain' in [servletContextInitParams]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Searching for key 'spring.liveBeansView.mbeanDomain' in [jndiProperties]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.jndi.JndiTemplate]Looking up JNDI object with name [java:comp/env/spring.liveBeansView.mbeanDomain]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.jndi.JndiLocatorDelegate]Converted JNDI name [java:comp/env/spring.liveBeansView.mbeanDomain] not found - trying original name [spring.liveBeansView.mbeanDomain]. javax.naming.NameNotFoundException: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.jndi.JndiTemplate]Looking up JNDI object with name [spring.liveBeansView.mbeanDomain]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.jndi.JndiPropertySource]JNDI lookup for name [spring.liveBeansView.mbeanDomain] threw NamingException with message: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].. Returning null.
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.core.env.PropertySourcesPropertyResolver]Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+  [DEBUG] [2020-11-02 18:51:52][org.springframework.web.context.ContextLoader]Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+  [INFO] [2020-11-02 18:51:52][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 8914 ms
+  [DEBUG] [2020-11-02 18:52:06][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:52:19][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 18:52:32][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:52:46][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:52:59][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:53:12][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:53:26][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:53:39][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:53:52][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 18:54:07][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1595ms
+  [DEBUG] [2020-11-02 18:54:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 6ms
+  [DEBUG] [2020-11-02 18:54:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:54:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:54:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:55:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:55:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 18:55:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 302ms
+  [DEBUG] [2020-11-02 18:55:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:56:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 10ms
+  [DEBUG] [2020-11-02 18:56:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:56:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:56:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:56:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:57:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:57:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:57:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:57:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:58:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 18:58:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:58:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:58:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:58:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:59:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:59:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 18:59:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 18:59:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:00:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:00:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:00:32][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:00:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:00:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:01:12][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:01:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:01:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:01:52][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:02:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:02:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 180ms
+  [DEBUG] [2020-11-02 19:02:32][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:02:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:02:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:03:12][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:03:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:03:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:03:52][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:04:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:04:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:04:32][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:04:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:04:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:05:12][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:05:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:05:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:05:52][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:06:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:06:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:06:32][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:06:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:06:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:07:12][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:07:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:07:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:07:52][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 805ms
+  [DEBUG] [2020-11-02 19:08:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:08:21][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2630ms
+  [DEBUG] [2020-11-02 19:08:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:08:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:08:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:09:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:09:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:09:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:09:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 11ms
+  [DEBUG] [2020-11-02 19:10:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:10:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:10:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:10:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:10:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 6ms
+  [DEBUG] [2020-11-02 19:11:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:11:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:11:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:11:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:12:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 4ms
+  [DEBUG] [2020-11-02 19:12:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:12:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:12:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:12:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:13:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:13:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:13:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:13:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:14:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:14:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:14:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:14:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:14:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:15:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:15:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:15:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:15:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:16:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:16:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:16:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:16:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:16:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:17:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:17:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:17:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:17:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:18:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:18:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:18:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:18:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:18:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:19:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:19:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:19:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:19:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:20:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:20:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:20:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:20:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:20:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:21:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:21:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:21:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 8ms
+  [DEBUG] [2020-11-02 19:21:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:22:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:22:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:22:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:22:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:22:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:23:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:23:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:23:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:23:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:24:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:24:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:24:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:24:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:24:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:25:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:25:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:25:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:25:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:26:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:26:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:26:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:26:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:26:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:27:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:27:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:27:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:27:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:28:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:28:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:28:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:28:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:28:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:29:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:29:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:29:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:29:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 7ms
+  [DEBUG] [2020-11-02 19:30:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:30:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:30:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:30:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:30:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:31:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:31:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:31:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:31:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:32:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:32:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:32:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:32:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:32:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:33:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:33:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 8ms
+  [DEBUG] [2020-11-02 19:33:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:33:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:34:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:34:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:34:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:34:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:34:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:35:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:35:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:35:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:35:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:36:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:36:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:36:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:36:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:36:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:37:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:37:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:37:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:37:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:38:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:38:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:38:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:38:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:38:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 37ms
+  [DEBUG] [2020-11-02 19:39:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:39:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:39:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:39:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:40:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 34ms
+  [DEBUG] [2020-11-02 19:40:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:40:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:40:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 7ms
+  [DEBUG] [2020-11-02 19:40:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:41:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:41:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:41:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:41:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 105ms
+  [DEBUG] [2020-11-02 19:42:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 475ms
+  [DEBUG] [2020-11-02 19:42:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:42:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:42:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:42:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:43:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:43:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:43:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:43:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:44:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:44:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:44:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 11ms
+  [DEBUG] [2020-11-02 19:44:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:44:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:45:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:45:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:45:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:45:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:46:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:46:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:46:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:46:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:46:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:47:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:47:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:47:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:47:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:48:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:48:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:48:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:48:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:48:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:49:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:49:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:49:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:49:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:50:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:50:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:50:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:50:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:50:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:51:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:51:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:51:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:51:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 10ms
+  [DEBUG] [2020-11-02 19:52:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:52:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:52:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:52:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:52:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:53:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:53:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:53:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:53:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 104ms
+  [DEBUG] [2020-11-02 19:54:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:54:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:54:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:54:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:54:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 5ms
+  [DEBUG] [2020-11-02 19:55:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:55:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:55:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:55:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:56:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:56:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:56:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:56:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:56:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:57:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:57:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:57:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:57:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 19:58:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:58:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 19:58:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:58:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:58:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:59:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 19:59:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:59:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 19:59:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:00:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:00:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 5ms
+  [DEBUG] [2020-11-02 20:00:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 4ms
+  [DEBUG] [2020-11-02 20:00:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:00:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:01:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:01:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:01:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:01:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:02:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:02:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 6ms
+  [DEBUG] [2020-11-02 20:02:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:02:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:02:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:03:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:03:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:03:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:03:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:04:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:04:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:04:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:04:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:04:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:05:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:05:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:05:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 11ms
+  [DEBUG] [2020-11-02 20:05:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:06:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:06:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:06:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:06:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:06:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:07:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:07:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:07:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:07:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:08:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:08:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:08:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:08:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:08:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:09:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 20:09:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:09:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:09:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:10:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:10:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:10:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:10:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:10:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:11:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:11:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:11:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:11:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:12:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:12:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:12:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 22ms
+  [DEBUG] [2020-11-02 20:12:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:12:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:13:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:13:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:13:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:13:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:14:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:14:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:14:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:14:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:14:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:15:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:15:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:15:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:15:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:16:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:16:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:16:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:16:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:16:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:17:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:17:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:17:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:17:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:18:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:18:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:18:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:18:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:18:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:19:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:19:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:19:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:19:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:20:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:20:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:20:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:20:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:20:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:21:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:21:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:21:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:21:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:22:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:22:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:22:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:22:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:22:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:23:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:23:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:23:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:23:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:24:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:24:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:24:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:24:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:24:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:25:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:25:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:25:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:25:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 5ms
+  [DEBUG] [2020-11-02 20:26:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:26:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:26:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:26:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:26:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:27:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:27:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:27:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:27:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:28:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:28:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 8ms
+  [DEBUG] [2020-11-02 20:28:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 14ms
+  [DEBUG] [2020-11-02 20:28:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:28:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 20:29:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:29:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:29:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:29:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 3ms
+  [DEBUG] [2020-11-02 20:30:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:30:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:30:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:30:45][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:30:58][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:31:11][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:31:25][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 2ms
+  [DEBUG] [2020-11-02 20:31:38][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:31:51][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:32:05][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:32:18][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:32:31][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:32:54][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 9226ms
+  [DEBUG] [2020-11-02 20:32:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 39ms
+  [DEBUG] [2020-11-02 20:33:10][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:33:24][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:33:37][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:33:50][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:34:04][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:34:17][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:34:30][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 0ms
+  [DEBUG] [2020-11-02 20:34:44][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  [DEBUG] [2020-11-02 20:34:57][org.apache.zookeeper.ClientCnxn]Got ping response for sessionid: 0x1758893a49d0001 after 1ms
+  
